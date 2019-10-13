@@ -1,0 +1,9 @@
+{
+  "short_name": "By Me",
+  "name": "By Me",
+  "icons": [],
+  "start_url": "./sdasd.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
